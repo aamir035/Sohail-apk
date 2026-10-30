@@ -1,0 +1,11 @@
+{
+  "name": "AS Shorts – Watch, Create & Earn",
+  "description": "Watch Short Videos, Create Videos, Earn Coins and Withdraw Real Money Through JazzCash & Easypaisa in Pakistan.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
